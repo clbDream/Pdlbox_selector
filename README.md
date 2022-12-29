@@ -26,7 +26,7 @@
 * 轻量视频播放器<VideoPlayer>
   ：[Pdlbox_videoplayer](https://github.com/clbDream/Pdlbox_videoplayer) ![](https://img.shields.io/github/stars/clbDream/Pdlbox_videoplayer.svg) ![](https://img.shields.io/github/forks/clbDream/Pdlbox_videoplayer.svg)
 * 图片视频选择器<VideoPlayer>
-  ：[Pdlbox_videoplayer](https://github.com/clbDream/Pdlbox_selector) ![](https://img.shields.io/github/stars/clbDream/Pdlbox_selector.svg) ![](https://img.shields.io/github/forks/clbDream/Pdlbox_selector.svg)
+  ：[Pdlbox_selector](https://github.com/clbDream/Pdlbox_selector) ![](https://img.shields.io/github/stars/clbDream/Pdlbox_selector.svg) ![](https://img.shields.io/github/forks/clbDream/Pdlbox_selector.svg)
 
 
 
